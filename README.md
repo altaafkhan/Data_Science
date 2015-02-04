@@ -1,5 +1,4 @@
-# Data Scientist's Toolbox
-Data Science - Course 1
+# Data Science Course 1 - Data Scientist's Toolbox
 
 ## Course Content
 * Track motivation
@@ -13,11 +12,11 @@ Data Science - Course 1
 * Steps in a data analysis
 * Putting the science in data science
  
+## Lecture Notes
+Links to html version of lecture notes for each week
+
 ## Quizzes
 There are three weekly quizzes. 
-* Quiz 1 Answers
-* Quiz 2 Answers
-* Quiz 3 Answers
 
 ## Course Project
 This assignment is designed to make sure you have done the basic software setup that will get you through the rest of the Data Science Specialization.
