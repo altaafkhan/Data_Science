@@ -15,11 +15,19 @@
 
 ### Week 2
 
+[Command Line Interface](http://jtleek.com/modules/01_DataScientistToolbox/02_03_commandLineInterface/#1)  
+[Introduction to Git](http://jtleek.com/modules/01_DataScientistToolbox/02_04_git/)  
+[Introduction to Github](http://jtleek.com/modules/01_DataScientistToolbox/02_05_github/)  
+[Creating a Github Repository](http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/)  
+[Basic Git Commands](http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/)  
+[Basic Markdown](http://jtleek.com/modules/01_DataScientistToolbox/02_08_basicMarkdown/)  
+[Installing R Packages](http://jtleek.com/modules/01_DataScientistToolbox/02_09_installingRPackages/)  
+[Installing Rtools](http://jtleek.com/modules/01_DataScientistToolbox/02_10_rtools/)  
 
 
 ### Week 3
 
-
-
-
-
+[Types of Questions](http://jtleek.com/modules/01_DataScientistToolbox/03_01_typesOfQuestions/)     
+[What is Data?](http://jtleek.com/modules/01_DataScientistToolbox/03_02_whatIsData/)                
+[What About Big Data?](http://jtleek.com/modules/01_DataScientistToolbox/03_03_whatAboutBigData/)   
+[Experimental Design](http://jtleek.com/modules/01_DataScientistToolbox/03_04_experimentalDesign/)  
