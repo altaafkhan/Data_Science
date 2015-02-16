@@ -75,3 +75,14 @@ Write a function that takes a directory of data files and a threshold for comple
 For this function you will need to use the 'cor' function in R which calculates the correlation between two vectors. Please read the help page for this function via '?cor' and make sure that you know how to use it.
 
 You can see some [example output from this function](https://d396qusza40orc.cloudfront.net/rprog%2Fdoc%2Fcorr-demo.html). The function that you write should be able to match this output. Please save your code to a file named **corr.R**. 
+
+### Solution  
+
+##### Part 1  
+[pollutantmean.R](https://github.com/altaafkhan/2_R_Programming/blob/master/pollutantmean.R)
+
+##### Part 2  
+[complete.R](https://github.com/altaafkhan/2_R_Programming/blob/master/complete.R)
+
+##### Part 3  
+[corr.R](https://github.com/altaafkhan/2_R_Programming/blob/master/corr.R)
