@@ -15,3 +15,10 @@
 [Reading data from the web](http://jtleek.com/modules/03_GettingData/02_03_readingFromTheWeb/#1)  
 [Reading data from APIs](http://jtleek.com/modules/03_GettingData/02_04_readingFromAPIs/#1)  
 [Reading from other sources](http://jtleek.com/modules/03_GettingData/02_05_readingFromOtherSources/#1)  
+
+### Week 3  
+[Subsetting and sorting](http://jtleek.com/modules/03_GettingData/03_01_subsettingAndSorting/#1)
+[Summarizing data](http://jtleek.com/modules/03_GettingData/03_02_summarizingData/#1)
+[Creating new variables](http://jtleek.com/modules/03_GettingData/03_03_creatingNewVariables/#1)
+[Reshaping data](http://jtleek.com/modules/03_GettingData/03_04_reshapingData/#1)
+[Merging data](http://jtleek.com/modules/03_GettingData/03_05_mergingData/#1)
