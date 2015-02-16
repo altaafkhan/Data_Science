@@ -79,10 +79,10 @@ You can see some [example output from this function](https://d396qusza40orc.clou
 ### Solution  
 
 ##### Part 1  
-[pollutantmean.R](https://github.com/altaafkhan/2_R_Programming/blob/master/pollutantmean.R)
+[pollutantmean.R](https://github.com/altaafkhan/Data_Science/blob/master/2_R_Programming/pollutantmean.R)
 
 ##### Part 2  
-[complete.R](https://github.com/altaafkhan/2_R_Programming/blob/master/complete.R)
+[complete.R](https://github.com/altaafkhan/Data_Science/blob/master/2_R_Programming/complete.R)
 
 ##### Part 3  
-[corr.R](https://github.com/altaafkhan/2_R_Programming/blob/master/corr.R)
+[corr.R](https://github.com/altaafkhan/Data_Science/blob/master/2_R_Programming/corr.R)
